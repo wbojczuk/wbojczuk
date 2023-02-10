@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [JSDevTools](https://github.com/wbojczuk/JSDevTools/)
 
-- 🌱 I’m currently learning **PHP, Java, System Analysis**
+- 🌱 I’m currently learning **NodeJS, React, MongoDB**
 
 - 👨‍💻 Portfolio [https://williambojczuk.dev/](https://williambojczuk.dev/)
 
