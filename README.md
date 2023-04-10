@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm William Bojczuk</h1>
-<h3 align="center">A developer from the United States</h3>
+<h3 align="center">A developer from the United States and Owner of **Grow In Code**</h3>
 
-- 🔭 I’m currently working on [JSDevTools](https://github.com/wbojczuk/JSDevTools/)
+- 🔭 I’m currently working on [Node Blog Backend](https://github.com/wbojczuk/node-blog-backend)
 
 - 🌱 I’m currently learning **NodeJS, React, MongoDB**
 
 - 👨‍💻 Portfolio [https://williambojczuk.dev/](https://williambojczuk.dev/)
 
-- 📝 I regularly write articles on [https://williambojczuk.blogspot.com](https://williambojczuk.blogspot.com)
+- 📝 I regularly write articles on [https://medium.com/@williambojczuk](https://medium.com/@williambojczuk)
 
 - 📫 How to reach me **williambojczuk@gmail.com**
 
