@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Bojczuk</h1>
-<h3 align="center">A developer from the United States and Owner of **Grow In Code**</h3>
+<h3 align="center">A developer from the United States and Owner of <em>Grow In Code</em></h3>
 
 - 🔭 I’m currently working on [Node Blog Backend](https://github.com/wbojczuk/node-blog-backend)
 
