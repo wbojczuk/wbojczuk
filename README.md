@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio [https://williambojczuk.dev/](https://williambojczuk.dev/)
 
-- 📝 I regularly write articles on [https://medium.com/@williambojczuk](https://medium.com/@williambojczuk)
+- 📝 I regularly write articles on [https://medium.com/@growincode](https://medium.com/@growincode)
 
 - 📫 How to reach me **williambojczuk@gmail.com**
 
