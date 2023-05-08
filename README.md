@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Bojczuk</h1>
 <h3 align="center">A developer from the United States and Owner of <em>Grow In Code</em></h3>
 
-- 🔭 I’m currently working on [Node Blog Backend](https://github.com/wbojczuk/node-blog-backend-fs)
+- 🔭 I’m currently working on [GrowInCode Website](https://github.com/wbojczuk/grow_in_code_site)
 
 - 🌱 I’m currently learning **NodeJS, React, MongoDB**
 
