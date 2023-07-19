@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Runtime Type Checker](https://github.com/wbojczuk/TSRuntimeTypeChecker)
 
-- 🌱 I’m currently learning **NodeJS, React, MongoDB**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 Portfolio [https://williambojczuk.dev/](https://williambojczuk.dev/)
-
-- 📝 I regularly write articles on [https://medium.com/@growincode](https://medium.com/@growincode)
 
 - 📫 How to reach me **williambojczuk@gmail.com**
 
