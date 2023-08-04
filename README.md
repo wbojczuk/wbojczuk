@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Runtime Type Checker](https://github.com/wbojczuk/TSRuntimeTypeChecker)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS, GoLang, and GraphQL**
 
 - 👨‍💻 Portfolio [https://williambojczuk.dev/](https://williambojczuk.dev/)
 
