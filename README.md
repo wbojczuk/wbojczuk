@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Bojczuk</h1>
-<h3 align="center">A developer from the United States and Owner of <em>Grow In Code</em></h3>
+<h3 align="center">A developer and entrepreneur from the United States and Owner of <a href="https://www.romedigital.co" target="_blank">Rome Digital</a></h3>
 
-- 🔭 I’m currently working on [Runtime Type Checker](https://github.com/wbojczuk/TSRuntimeTypeChecker)
+- 🔭 I’m currently working on [NextJS Page Templating](https://github.com/wbojczuk/page-template-v1)
 
-- 🌱 I’m currently learning **NextJS, GoLang, and GraphQL**
+- 🌱 I’m currently learning **Business**
 
 - 👨‍💻 Portfolio [https://williambojczuk.dev/](https://williambojczuk.dev/)
 
